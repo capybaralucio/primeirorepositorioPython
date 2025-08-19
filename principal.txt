@@ -1,0 +1,5 @@
+arquivo inicial do projeto 1
+
+metodoX(){
+	essa joça tem que funcionar 	
+}
