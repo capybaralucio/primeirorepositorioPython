@@ -1,0 +1,5 @@
+arquivo inicial do projeto 1
+
+metodoX(){
+	num é que funcionou a joça toda 	
+}
