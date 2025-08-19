@@ -1,27 +1,9 @@
 arquivo inicial do projeto 1
 
 metodoX(){
-<<<<<<< HEAD:principal.txt
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> b6ec11e80c58257685ab603bc4f40b029d9d4343
-=======
->>>>>>> main:NOVO PRINCIPAL.txt
 	essa joça tem que funcionar (main disse isso)
 
 	num é que funcionou a joça toda (programador1 disse isso)
 
-<<<<<<< HEAD:principal.txt
-<<<<<<< HEAD
-=======
-	o segundo programador é broxa	
->>>>>>> programador2
-=======
-	o segundo programador é broxa	(programador2 disse isso)
->>>>>>> b6ec11e80c58257685ab603bc4f40b029d9d4343
-=======
 	o segundo programador vai ser demitido(programador2)
->>>>>>> main:NOVO PRINCIPAL.txt
 }
