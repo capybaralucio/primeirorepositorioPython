@@ -5,6 +5,5 @@ metodoX(){
 
 	num é que funcionou a joça toda (programador1 disse isso)
 
-
 	o segundo programador vai ser demitido(programador2)
 }
