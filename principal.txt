@@ -1,9 +1,13 @@
 arquivo inicial do projeto 1
 
 metodoX(){
+<<<<<<< HEAD
 
 	essa joça tem que funcionar (main disse isso)
 
 	num é que funcionou a joça toda (programador1 disse isso)
 
+=======
+	o segundo programador é broxa	
+>>>>>>> programador2
 }
